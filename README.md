@@ -1,170 +1,123 @@
-<!-- Animated Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6366f1&height=250&section=header&text=👋%20Hey%20There!&fontSize=50&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space&descSize=18&descColor=ffffff&descAlignY=60" alt="Banner" />
-</div>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=58a6ff&center=true&vCenter=true&width=800&height=80&lines=👋+Hey+There!+I'm+Satyam+Bhai;🚀+Full+Stack+Developer;💻+Building+Awesome+Projects;🎯+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
 
-<!-- Typing Animation Effect -->
-<div align="center">
+---
 
-### 👨‍💻 I'm a
+## 🎯 About Me
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "YOUR_NAME"
-        self.role = "Full Stack Developer"
-        self.passion = "Building Amazing Things"
+    name = "Satyam Bhai"
+    role = "Full Stack Developer"
+    location = "India"
+    passion = "Building Amazing Things"
     
     def code(self):
-        return "💻 Creating magic with code"
+        return "💻 Creating magic with code ✨"
 ```
 
-</div>
+---
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyam-Bhaii&color=58a6ff&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-<!-- Animated Visitor Counter -->
-<div align="center">
+## 🛠️ Tech Stack
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=for-the-badge)
-
-</div>
-
----
-
-## 🎯 What I Do
-
-<div align="center">
-
-| 🎨 **Design** | 💻 **Code** | 🚀 **Deploy** |
-|:---:|:---:|:---:|
-| <img src="https://img.icons8.com/color/48/figma.png" alt="Design" /> | <img src="https://img.icons8.com/color/48/vscode.png" alt="Code" /> | <img src="https://img.icons8.com/color/48/github-2.png" alt="Deploy" /> |
-| Beautiful UI/UX | Clean & Efficient | Production Ready |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&height=30" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&height=30" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&height=30" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&height=30" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&height=30" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=30" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&height=30" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&height=30" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=30" alt="GitHub" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📊 GitHub Stats
 
-<div align="center">
-
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-### Backend
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-
-### Database & Cloud
-<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-
-### Tools
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Bhaii&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Bhaii&theme=react&hide_border=true&layout=compact" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
-## 📊 GitHub Profile Stats
+## 🔥 Contribution Graph
 
-<div align="center">
-
-### 📈 Stats Overview
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&layout=compact" alt="Top Languages" /></td>
-  </tr>
-</table>
-
-### 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-mercury&hide_border=true&bg_color=0d1117&title_color=58a6ff&line_color=58a6ff&text_color=8b949e" alt="Activity Graph" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-
-### 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNum=8b949e&currStreakLabel=58a6ff&sideLabel=8b949e" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-Bhaii&theme=react-mercury&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
-## 🎖️ Recent Achievements
+## 🏆 Trophies
 
-<div align="center">
-
-![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=171515)
-![Top Contributor](https://img.shields.io/badge/Top%20Contributor-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2da44e&color=2da44e)
-![Open Source](https://img.shields.io/badge/Open%20Source-❤️?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6b6b&color=ff6b6b)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam-Bhaii&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" width="100%" />
+</p>
 
 ---
 
-## 📱 Let's Connect
+## 🔥 GitHub Streak
 
-<div align="center">
-
-### 🤝 I'm always open to connect and collaborate!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/YOUR_USERNAME)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/YOUR_ID)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white&labelColor=000000)](https://your-portfolio.com)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Bhaii&theme=react&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
 
 ---
 
-## 💬 Quote of the Day
+## 📱 Connect With Me
 
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> **— Cory House**
-
-![Quote](https://capsule-render.vercel.app/api?type=quote&text=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&color=gradient&height=100&fontSize=18&fontColor=ffffff)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=35" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&height=35" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=35" alt="Instagram" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=35" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/YOUR_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&height=35" alt="Discord" />
+  </a>
+</p>
 
 ---
 
-<!-- Animated Footer -->
-<div align="center">
+## 💭 Quote of the Day
 
-<img src="https://capsule-render.vercel.app/api?type=footer&color=0:6366f1,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
+  <b>— Cory House</b>
+</p>
 
-### ⭐ Don't forget to drop a ⭐ on this profile!
+---
 
-```bash
-echo "Made with ❤️, ☕, and lots of 💻"
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=58a6ff&center=true&vCenter=true&width=400&height=50&lines=Thanks+for+visiting!+🚀" alt="Thanks" />
+</p>
 
-![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=238636&color=238636)
+<p align="center">
+  <b>Made with ❤️ and ☕ by Satyam Bhai</b>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-238636?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
+</p>
 
-<!-- Hidden: Replace YOUR_USERNAME with your actual GitHub username -->
+<!-- Replace YOUR_USERNAME with your actual social media handles -->
