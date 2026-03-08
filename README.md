@@ -72,32 +72,28 @@ class Developer:
 
 ### 📈 Stats Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Satyam-Bhaii&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Bhaii&theme=react&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Satyam-Bhaii&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Bhaii&theme=radical&layout=donut" alt="Top Languages" width="48%" />
 
 ### 🔥 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-Bhaii&theme=react-mercury&hide_border=true" alt="Activity Graph" width="100%" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyam-Bhaii&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-Bhaii&theme=red-rocket&hide_border=true" alt="Activity Graph" />
 
 ### 🔥 Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Bhaii&theme=react&hide_border=true" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Bhaii&theme=radical" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🎖️ Recent Achievements
+## 🎖️ Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Top%20Contributor-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-❤️?style=for-the-badge&logo=github&logoColor=white" />
+![Stars](https://img.shields.io/badge/⭐-Star%20Gazer-yellow?style=for-the-badge)
+![Code](https://img.shields.io/badge/💻-Code%20Warrior-blue?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/❤️-Open%20Source-red?style=for-the-badge)
 
 </div>
 
@@ -142,16 +138,12 @@ class Developer:
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=footer&color=0:6366f1,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=footer&color=0:6366f1,100:000000&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </div>
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
-
-```bash
-echo "Made with ❤️, ☕, and lots of 💻"
-```
+### ⭐ Made with ❤️ by Satyam Bhai
 
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting-238636?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
 
