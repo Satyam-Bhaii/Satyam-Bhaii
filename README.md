@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Bhaii&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Bhaii&theme=blue-green&layout=donut" alt="Top Languages"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
