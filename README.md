@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hey There! I'm Satyam Bhai
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6366f1&height=250&section=header&text=👋%20Hey%20There!&fontSize=50&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space&descSize=18&descColor=ffffff&descAlignY=60)
+
+# Satyam Bhai
 
 ### 👨‍💻 Full Stack Developer | 🚀 Building Awesome Projects
 
@@ -17,41 +19,64 @@
 
 ## 🛠️ Technologies
 
-**Languages:** JavaScript, Python, HTML, CSS
-
-**Frameworks:** React, Node.js, Express
-
-**Tools:** Git, GitHub, MongoDB
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+</p>
 
 ---
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam-Bhaii&show_icons=true&theme=blue-green)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Bhaii&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Bhaii&theme=blue-green&layout=donut" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Bhaii&theme=blue-green)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Bhaii&theme=blue-green" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📱 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) | 
-[Twitter](https://twitter.com/YOUR_USERNAME) | 
-[Instagram](https://instagram.com/YOUR_USERNAME) | 
-[Email](mailto:your-email@example.com)
+<p>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
 
 ---
 
 ## 💬 Quote
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ---
 
-### ⭐ Thanks for visiting! Made with ❤️ by Satyam Bhai
+![Footer](https://capsule-render.vercel.app/api?type=footer&color=0:6366f1,100:000000&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn)
+
+### ⭐ Made with ❤️ by Satyam Bhai
 
 </div>
