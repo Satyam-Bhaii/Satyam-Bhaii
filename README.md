@@ -61,7 +61,7 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=footer&color=0:6366f1,100:000000&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn)
+![Footer] (https://capsule-render.vercel.app/api?type=footer&color=0:6366f1,100:000000&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn)
 
 ### ⭐ Made with ❤️ by Satyam Bhai
 
